@@ -52,7 +52,7 @@ static const char *bootOpts[DEFAULT_MAX] = {
 	"Disabled",
 	"System Menu",
 	"Homebrew Launcher",
-	"Mocha CFW",
+	"HID To VPAD,
 	"fw.img on SD Card",
 	"vWii System Menu",
 	"vWii Homebrew Channel",
